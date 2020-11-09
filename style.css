@@ -1,0 +1,52 @@
+ div[class*=col-] { 
+    border: 1px solid white;
+    } 
+
+.jumbotron {
+    background-image: url(https://lh3.googleusercontent.com/eI-wHwB2uqJupYv7QPCZcUGB9M1AGCazKnFEFIm6KcTpUyqxtF7Dn434qTqRCJHDdLslZcppYYw=w2247-h1264);
+    background-size: cover;
+    height:100vh;
+    color: white;
+} 
+
+.jumbotron h1, .jumbotron p {
+ font-weight: bold;
+}
+
+.gris {
+    background: gray;
+    height: 80px;
+}
+
+.azul {
+    background: skyblue;
+    height: 500px;
+}
+
+.beige {
+    background: wheat;
+}
+
+.verde {
+    background: springgreen;
+    height: 400px;
+}
+
+.rosa {
+    background: pink;
+}
+
+.amarillo {
+    background: yellow;
+    height: 200px;
+}
+
+.violeta {
+    background: violet;
+    height: 100px;
+}
+
+.naranja {
+    background: orange;
+    height: 200px;
+}
